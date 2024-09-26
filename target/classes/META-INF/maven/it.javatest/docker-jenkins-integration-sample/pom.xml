@@ -3,4 +3,7 @@
   <groupId>it.javatest</groupId>
   <artifactId>docker-jenkins-integration-sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+ 	<finalName>docker-jenkins-integration-sample</finalName> 	
+  </build>
 </project>
